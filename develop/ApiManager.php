@@ -5,3 +5,5 @@
  * Date: 2017/7/13
  * Time: 16:47
  */
+
+require_once '../lib/init.php';
