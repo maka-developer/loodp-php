@@ -1,0 +1,12 @@
+{
+  "name" : "loodp/loodp",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/maka-developer/loodp-php.git"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Loodp\\": "develop/"}
+  }
+}
