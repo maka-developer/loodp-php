@@ -11,3 +11,4 @@
 
 //路由解析
 var_dump($_SERVER);
+$PATH_INFO = $_SERVER['PATH_INFO'];
