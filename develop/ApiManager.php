@@ -6,7 +6,5 @@
  * Time: 16:47
  */
 
-defined(MANAGER_PATH) || define(MANAGER_PATH, dirname(dirname(__FILE__)));   //框架目录
-
-echo MANAGER_PATH . 'lib/init.php';
+require_once  '../lib/init.php';
 
