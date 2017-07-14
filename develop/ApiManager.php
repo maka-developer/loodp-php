@@ -6,5 +6,7 @@
  * Time: 16:47
  */
 
-require_once  '/usr/local/loodp/lib/init.php';
+defined(MANAGER_PATH) || define(MANAGER_PATH, dirname(dirname(__FILE__)));   //框架目录
+
+require_once  MANAGER_PATH . '/lib/init.php';
 

@@ -6,7 +6,6 @@
  * Time: 16:44
  */
 
-defined(MANAGER_PATH) || define(MANAGER_PATH, dirname(dirname(__FILE__)));   //框架目录
 
 //引用必要文件
 
