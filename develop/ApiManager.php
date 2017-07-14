@@ -6,5 +6,5 @@
  * Time: 16:47
  */
 
-require_once  '../lib/init.php';
+require_once  '/usr/local/loodp/lib/init.php';
 
