@@ -7,6 +7,6 @@
     }
   ],
   "autoload": {
-    "psr-4": {"Loodp\\": "develop/"}
+    "psr-4": {"Func\\": "develop/"}
   }
 }
