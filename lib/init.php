@@ -10,5 +10,6 @@
 //引用必要文件
 
 //路由解析
-var_dump($_SERVER);
 $PATH_INFO = $_SERVER['PATH_INFO'];
+
+echo $PATH_INFO;
