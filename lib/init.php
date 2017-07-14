@@ -12,4 +12,3 @@
 //路由解析
 $PATH_INFO = $_SERVER['PATH_INFO'];
 
-echo $PATH_INFO;
