@@ -6,10 +6,7 @@
  * Time: 14:44
  */
 
-require_once dirname(__FILE__) . '\vendor\autoload.php';
 
-$app = new Package\Application(
-    realpath(dirname(__FILE__))
-);
 
-$app->get('','');
+
+
